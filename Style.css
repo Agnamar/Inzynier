@@ -1,0 +1,19 @@
+body {
+    /* change color below! */
+    background: wheat;
+    font-family: Georgia, Arial, Helvetica;
+}
+
+.container {
+    max-width: 5000px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: left;
+}
